@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <wpt lat="-17.531781" lon="-149.567304">
+    <name>This is point 1</name>
+    <desc>T1 description</desc>
+    <type>ship</type>
+    <sym>boat</sym>
+  </wpt>
+  <wpt lat="-17.631781" lon="-149.667304">
+    <name>This is point 2</name>
+    <desc>T1 
+    <![CDATA[Sample
+                 Text 123]]></desc>
+      <type>boat</type>
+    <sym>anchorage</sym>
+  </wpt>
+   <wpt lat="-17.731781" lon="-149.667304">
+    <name>This is point 3</name>
+    <desc>
+    Date: 2023-11-27 '\n'
+    Current Speed: 6.4 kn
+    "Current Heading: 272"
+    "24-hr Distance: 168 nm"
+    "24-hr Avg Speed: 5.3 kn"
+    </desc>
+      <type>anchorage</type>
+    <sym>information</sym>
+  </wpt>
+   <wpt lat="-17.831781" lon="-149.667304">
+    <name>This is point 3</name>
+    <desc>T1 description</desc>
+      <type>Boat2</type>
+    <sym>information</sym>
+  </wpt>
+  <trk>
+    <trkseg>
+      <trkpt lat="-17.4234" lon="-149.4234">
+        <ele>1234</ele>
+      </trkpt>
+      <trkpt lat="-17.5235" lon="-149.5235">
+        <ele>1235</ele>
+      </trkpt>
+      <trkpt lat="-17.6236" lon="-149.8236">
+        <ele>1236</ele>
+      </trkpt>   
+      <trkpt lat="-17.6236" lon="-149.9236">
+        <ele>1236</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
