@@ -8,9 +8,8 @@
   </wpt>
   <wpt lat="-17.631781" lon="-149.667304">
     <name>This is point 2</name>
-    <desc>T1 
-    <![CDATA[Sample
-                 Text 123]]></desc>
+    <desc>T1 Sample
+                 Text from main branch</desc>
       <type>boat</type>
     <sym>anchorage</sym>
   </wpt>
