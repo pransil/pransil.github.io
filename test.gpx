@@ -17,11 +17,10 @@
    <wpt lat="-17.731781" lon="-149.667304">
     <name>This is point 3</name>
     <desc>
-    Date: 2023-11-27 '\n'
+    Date: 2023-11-27
     Current Speed: 6.4 kn
-    "Current Heading: 272"
-    "24-hr Distance: 168 nm"
-    "24-hr Avg Speed: 5.3 kn"
+    Current Heading: 272
+    24-hr Distance: 168 nm
     </desc>
       <type>anchorage</type>
     <sym>information</sym>
