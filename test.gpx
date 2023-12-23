@@ -8,7 +8,7 @@
   </wpt>
   <wpt lat="-17.631781" lon="-149.667304">
     <name>This is point 2</name>
-    <desc>T1 Sample
+    <desc>T2 Sample
                  Text from main branch</desc>
       <type>boat</type>
     <sym>anchorage</sym>
@@ -26,8 +26,8 @@
     <sym>information</sym>
   </wpt>
    <wpt lat="-17.831781" lon="-149.667304">
-    <name>This is point 3</name>
-    <desc>T1 description</desc>
+    <name>This is point 4</name>
+    <desc>P4 description</desc>
       <type>Boat2</type>
     <sym>information</sym>
   </wpt>
