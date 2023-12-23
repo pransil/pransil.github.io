@@ -8,13 +8,12 @@
   </wpt>
   <wpt lat="-17.631781" lon="-149.667304">
     <name>This is point 2</name>
-    <desc>T1 
-    <![CDATA[Sample
-                 Text 123]]></desc>
+    <desc>Some text
+          Another line</desc>
       <type>boat</type>
     <sym>anchorage</sym>
   </wpt>
-   <wpt lat="-17.731781" lon="-149.667304">
+  <wpt lat="-17.731781" lon="-149.667304">
     <name>This is point 3</name>
     <desc>
     Date: 2023-11-27
@@ -26,7 +25,7 @@
     <sym>information</sym>
   </wpt>
    <wpt lat="-17.831781" lon="-149.667304">
-    <name>This is point 3</name>
+    <name>This is point 4</name>
     <desc>T1 description</desc>
       <type>Boat2</type>
     <sym>information</sym>
