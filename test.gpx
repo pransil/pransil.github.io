@@ -2,9 +2,8 @@
 <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
   <wpt lat="-17.531781" lon="-149.567304">
     <name>Noonsite 2023-12-15</name>
-    <desc>T1 description</desc>
-    <type>ship</type>
-    <sym>boat</sym>
+    <desc>P1 description</desc>
+    <type>Boat</type>
   </wpt>
   <wpt lat="-17.631781" lon="-149.667304">
     <name>Noonsite 2023-12-16</name>
@@ -25,7 +24,7 @@
   <wpt lat="-17.831781" lon="-149.667304">
     <name>Noonsite 2023-12-18</name>
     <desc>P4 description</desc>
-    <type>Boat2</type>
+    <type>Marina</type>
   </wpt>
   <trk>
     <trkseg>
