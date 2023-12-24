@@ -1,28 +1,5 @@
 # trkfile.py - read and write GPX track files
 
-# Read a GPX track file
-def readTrackFile(fname):
-    gpxFile = open(fname, 'r')
-    gpxData = gpxFile.read()
-    gpxFile.close()
-    return gpxData
-
-# Write a GPX track file
-def writeTrackFile(fname, gpxData):
-    gpxFile = open(fname, 'w')
-    gpxFile.write(gpxData)
-    gpxFile.close()
-
-def writeTrackFileLines(fname, gpxDataLines):
-    for line in gpxDataLines:
-        print(line)
-    print('Done writing track file')
-    with open(fname, 'w') as gpxFile:
-        for line in gpxDataLines:
-            l = line + '\n'
-            gpxFile.write(l)
-    #gpxFile.write('\n')
-    gpxFile.close()
 
 
 def count_lines_in_data(file_data):
