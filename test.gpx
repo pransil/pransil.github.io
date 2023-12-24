@@ -3,12 +3,12 @@
   <wpt lat="-17.531781" lon="-149.567304">
     <name>Noonsite 2023-12-15</name>
     <desc>P1 description</desc>
-    <type>Boat</type>
+    <type>In Marina</type>
   </wpt>
   <wpt lat="-17.631781" lon="-149.667304">
     <name>Noonsite 2023-12-16</name>
     <desc>P2 from main branch</desc>
-    <type>Marina</type>
+    <type>At Anchor</type>
   </wpt>
    <wpt lat="-17.731781" lon="-149.667304">
    	<time>2017-06-22T15:55:01Z</time>
@@ -19,12 +19,12 @@
     "24-hr Distance: 168 nm"
     "24-hr Avg Speed: 5.3 kn"
     </desc>
-    <type>anchorage</type>
+    <type>On Passage</type>
   </wpt>
   <wpt lat="-17.831781" lon="-149.667304">
     <name>Noonsite 2023-12-18</name>
     <desc>P4 description</desc>
-    <type>Marina</type>
+    <type>In Marina</type>
   </wpt>
   <trk>
     <trkseg>
