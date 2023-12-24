@@ -5,6 +5,7 @@ import datetime
 import pytz
 import gpxptutils
 import gpxfileutils
+import random
 
 
 gpx = gpxpy.gpx.GPX()
@@ -25,15 +26,21 @@ gpx.tracks.append(gpx_track)
 gpx_segment = gpxpy.gpx.GPXTrackSegment()
 gpx_track.segments.append(gpx_segment)
 
-# Create points:
-gpx_segment.points.append(gpxpy.gpx.GPXTrackPoint(-17.4234, -149.4234, time=yesterday))
-gpx_segment.points.append(gpxpy.gpx.GPXTrackPoint(-17.5235, -149.5235, time=now))
-gpx_segment.points.append(gpxpy.gpx.GPXTrackPoint(-17.6236, -149.8236, time=tomorrow))
+# Create track points with random increments 
+lat = [-17.4234]
+lon = [-149.4234]
+
+for i in range (1, 10):
+    lat.append(random.random() * 0.1 + lat[i-1])
+    lon.append(random.random() * 0.1 + lon[i-1])
+    gpx_segment.points.append(gpxpy.gpx.GPXTrackPoint(lat[i], lon[i], time=yesterday))
+
+#print('tst.gpx track points:', gpx.to_xml())
 
 # You can add routes and waypoints, too...
-gpxptutils.add_waypt(gpx, -17.531781, -149.567304, name='Noonsite 2023-12-15', time=yesterday, type='In Marina', desc='Marina Taina')
-gpxptutils.add_waypt(gpx, -17.631781, -149.667304, name='Noonsite 2023-12-16', time=now, type='At Anchor', desc='Opuhonu Bay')
-gpxptutils.add_waypt(gpx, -17.731781, -149.667304, name='Noonsite 2023-12-17', time=tomorrow, type='On Passage', desc='Day four')
+gpx = gpxptutils.add_waypt(gpx, lat[2], lon[2], name='Noonsite 2023-12-15', time=yesterday, type='In Marina', desc='Marina Taina')
+gpx = gpxptutils.add_waypt(gpx, lat[5], lon[5],name='Noonsite 2023-12-16', time=now, type='At Anchor', desc='Opuhonu Bay')
+gpx = gpxptutils.add_waypt(gpx, lat[9], lon[9], name='Noonsite 2023-12-17', time=tomorrow, type='On Passage', desc='Day four')
 
 
 #print('Created GPX:', gpx.to_xml())
