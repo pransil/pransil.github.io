@@ -1,35 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
   <wpt lat="-17.531781" lon="-149.567304">
-    <name>This is point 1</name>
+    <name>Noonsite 2023-12-15</name>
     <desc>T1 description</desc>
     <type>ship</type>
     <sym>boat</sym>
   </wpt>
   <wpt lat="-17.631781" lon="-149.667304">
-    <name>This is point 2</name>
+    <name>Noonsite 2023-12-16</name>
     <desc>T2 from main branch</desc>
-      <type>boat</type>
-    <sym>anchorage</sym>
+    <type>Marina</type>
   </wpt>
    <wpt lat="-17.731781" lon="-149.667304">
    	<time>2017-06-22T15:55:01Z</time>
-    <name>This is point 3</name>
+    <name>Noonsite 2023-12-17</name>
     <desc>
-    Date: 2023-11-27 '\n'
     Current Speed: 6.4 kn
     "Current Heading: 272"
     "24-hr Distance: 168 nm"
     "24-hr Avg Speed: 5.3 kn"
     </desc>
-      <type>anchorage</type>
-    <sym>information</sym>
+    <type>anchorage</type>
   </wpt>
-   <wpt lat="-17.831781" lon="-149.667304">
-    <name>This is point 4</name>
+  <wpt lat="-17.831781" lon="-149.667304">
+    <name>Noonsite 2023-12-18</name>
     <desc>P4 description</desc>
-      <type>Boat2</type>
-    <sym>information</sym>
+    <type>Boat2</type>
   </wpt>
   <trk>
     <trkseg>
