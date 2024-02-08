@@ -47,3 +47,13 @@ gpx = gpxptutils.add_waypt(gpx, lat[9], lon[9], name='Noonsite 2023-12-17', time
 
 with open('tst.gpx', 'w') as f:
     f.write(gpx.to_xml())
+
+# Make a gpx file from
+# - lat_start, lon_start, lat_end, lon_end
+# - time_start, time_end
+lat_start = -17.5
+lon_start = -149.5
+lat_end = -19.4
+lon_end = -151.4
+time_start = datetime.datetime.now()
+time_end = time_start + datetime.timedelta(days=10)
