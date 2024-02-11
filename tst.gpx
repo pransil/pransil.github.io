@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <wpt lat="-17.34768282091574" lon="-149.30791525065527">
+    <time>2023-12-22T20:44:07.940610</time>
+    <name>Noonsite 2023-12-15</name>
+    <desc>Marina Taina</desc>
+    <type>In Marina</type>
+  </wpt>
+  <wpt lat="-17.128211720321936" lon="-149.12429238702558">
+    <time>2023-12-23T20:44:07.940610</time>
+    <name>Noonsite 2023-12-16</name>
+    <desc>Opuhonu Bay</desc>
+    <type>At Anchor</type>
+  </wpt>
+  <wpt lat="-16.963414405883825" lon="-148.96804790694014">
+    <time>2023-12-24T20:44:07.940610</time>
+    <name>Noonsite 2023-12-17</name>
+    <desc>Day four</desc>
+    <type>On Passage</type>
+  </wpt>
+  <trk>
+    <trkseg>
+      <trkpt lat="-17.393315494586183" lon="-149.39011657155186">
+        <time>2023-12-22T20:44:07.940610</time>
+      </trkpt>
+      <trkpt lat="-17.34768282091574" lon="-149.30791525065527">
+        <time>2023-12-22T20:44:07.940610</time>
+      </trkpt>
+      <trkpt lat="-17.253106835276004" lon="-149.27414958828993">
+        <time>2023-12-22T20:44:07.940610</time>
+      </trkpt>
+      <trkpt lat="-17.221707810195536" lon="-149.2201036670762">
+        <time>2023-12-22T20:44:07.940610</time>
+      </trkpt>
+      <trkpt lat="-17.128211720321936" lon="-149.12429238702558">
+        <time>2023-12-22T20:44:07.940610</time>
+      </trkpt>
+      <trkpt lat="-17.06080426637492" lon="-149.04933566768517">
+        <time>2023-12-22T20:44:07.940610</time>
+      </trkpt>
+      <trkpt lat="-17.04056833848697" lon="-149.03581085098364">
+        <time>2023-12-22T20:44:07.940610</time>
+      </trkpt>
+      <trkpt lat="-16.978958677301527" lon="-149.0259113415726">
+        <time>2023-12-22T20:44:07.940610</time>
+      </trkpt>
+      <trkpt lat="-16.963414405883825" lon="-148.96804790694014">
+        <time>2023-12-22T20:44:07.940610</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
