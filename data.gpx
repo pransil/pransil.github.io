@@ -23,7 +23,6 @@
     <trkpt lat="-17.3" lon="-142.4">
       <time>2024-02-12T23:55:49Z</time>
     </trkpt>
-<<<<<<< HEAD
     <trkpt lat="-17.3" lon="-142.4">
       <time>2024-02-12T23:55:49Z</time>
     </trkpt>
@@ -33,69 +32,11 @@
     <trkpt lat="-17.1" lon="-142.8">
       <time>2024-02-13T01:59:28Z</time>
     </trkpt>
-    <trkpt lat="-17.0" lon="-143.0">
-      <time>2024-02-13T02:00:29Z</time>
-    </trkpt>
-    <trkpt lat="-16.9" lon="-143.2">
-      <time>2024-02-13T05:02:04Z</time>
-    </trkpt>
-    <trkpt lat="-16.8" lon="-143.4">
-      <time>2024-02-13T05:02:36Z</time>
-    </trkpt>
-    <trkpt lat="-16.7" lon="-143.6">
-      <time>2024-02-13T05:06:26Z</time>
-    </trkpt>
-    <trkpt lat="-16.6" lon="-143.8">
-      <time>2024-02-13T05:38:33Z</time>
-    </trkpt>
-    <trkpt lat="-16.5" lon="-144.0">
-      <time>2024-02-13T05:41:14Z</time>
-    </trkpt>
-    <trkpt lat="-16.4" lon="-144.2">
-      <time>2024-02-13T05:43:35Z</time>
-    </trkpt>
-    <trkpt lat="-16.3" lon="-144.4">
-      <time>2024-02-13T05:57:31Z</time>
-=======
-    <trkpt lat="-17.2" lon="-142.6">
-      <time>2024-02-13T00:47:32Z</time>
-    </trkpt>
-    <trkpt lat="-17.1" lon="-142.8">
-      <time>2024-02-13T00:53:18Z</time>
-    </trkpt>
-    <trkpt lat="-17.0" lon="-143.0">
-      <time>2024-02-13T00:55:29Z</time>
-    </trkpt>
-    <trkpt lat="-16.0" lon="-143.2">
-      <time>2024-02-13T00:58:44Z</time>
->>>>>>> c5a839c9f6263a4f3bd30e0801330c3bfbcfdf0d
-    </trkpt>
-<<<<<<< HEAD
-    <trkpt lat="-16.3" lon="-144.4">
-      <time>2024-02-13T05:57:31Z</time>
-=======
-    <trkpt lat="-16.0" lon="-143.2">
-      <time>2024-02-13T00:58:44Z</time>
->>>>>>> c5a839c9f6263a4f3bd30e0801330c3bfbcfdf0d
-    </trkpt>
-<<<<<<< HEAD
-    <trkpt lat="-16.3" lon="-144.4">
-      <time>2024-02-13T05:57:31Z</time>
-=======
-    <trkpt lat="-16.0" lon="-143.2">
-      <time>2024-02-13T00:58:44Z</time>
->>>>>>> c5a839c9f6263a4f3bd30e0801330c3bfbcfdf0d
-    </trkpt>
-<<<<<<< HEAD
-    <trkpt lat="-16.3" lon="-144.4">
-      <time>2024-02-13T05:57:31Z</time>
-=======
-    <trkpt lat="-16.0" lon="-143.2">
-      <time>2024-02-13T00:58:44Z</time>
->>>>>>> c5a839c9f6263a4f3bd30e0801330c3bfbcfdf0d
-    </trkpt>
     <trkpt lat="-16.05" lon="-144.92">
       <time>2024-02-13T06:14:08Z</time>
+    </trkpt>
+    <trkpt lat="-15.92" lon="-145.02">
+      <time>2024-02-13T06:18:26Z</time>
     </trkpt>
     </trkseg>
   </trk>
