@@ -23,17 +23,26 @@
     <trkpt lat="-17.3" lon="-142.4">
       <time>2024-02-12T23:55:49Z</time>
     </trkpt>
-    <trkpt lat="-17.2" lon="-142.6">
-      <time>2024-02-13T00:47:32Z</time>
+    <trkpt lat="-17.3" lon="-142.4">
+      <time>2024-02-12T23:55:49Z</time>
+    </trkpt>
+    <trkpt lat="-17.3" lon="-142.4">
+      <time>2024-02-12T23:55:49Z</time>
     </trkpt>
     <trkpt lat="-17.1" lon="-142.8">
-      <time>2024-02-13T00:53:18Z</time>
+      <time>2024-02-13T01:59:28Z</time>
     </trkpt>
     <trkpt lat="-17.0" lon="-143.0">
-      <time>2024-02-13T00:55:29Z</time>
+      <time>2024-02-13T02:00:29Z</time>
     </trkpt>
-    <trkpt lat="-16.0" lon="-143.2">
-      <time>2024-02-13T00:58:44Z</time>
+    <trkpt lat="-16.9" lon="-143.2">
+      <time>2024-02-13T05:02:04Z</time>
+    </trkpt>
+    <trkpt lat="-16.8" lon="-143.4">
+      <time>2024-02-13T05:02:36Z</time>
+    </trkpt>
+    <trkpt lat="-16.7" lon="-143.6">
+      <time>2024-02-13T05:06:26Z</time>
     </trkpt>
     </trkseg>
   </trk>
