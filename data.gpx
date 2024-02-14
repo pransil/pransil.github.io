@@ -383,6 +383,9 @@
       <trkpt lat="-5.47" lon="-168.0">
         <time>2024-02-14T00:00:01Z</time>
       </trkpt>
+      <trkpt lat="-5.37" lon="-168.15">
+        <time>2024-02-14T00:01:01Z</time>
+      </trkpt>
     </trkseg>
   </trk>
   <wpt lat="-17.84768282091574" lon="-149.30791525065527">
