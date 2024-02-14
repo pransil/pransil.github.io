@@ -959,6 +959,9 @@
       <trkpt lat="13.23" lon="-206.33">
         <time>2024-02-14T03:11:01Z</time>
       </trkpt>
+      <trkpt lat="13.4" lon="-206.43">
+        <time>2024-02-14T03:12:01Z</time>
+      </trkpt>
     </trkseg>
   </trk>
   <wpt lat="-17.84768282091574" lon="-149.30791525065527">
